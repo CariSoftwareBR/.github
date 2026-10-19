@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/CariSoftwareBR/OpenGitDesktop"><img src="https://raw.githubusercontent.com/CariSoftwareBR/.github/main/profile/opengitdesktop-banner.png" alt="OpenGitDesktop — the Git client that works with you, not instead of you" width="100%"></a>
+<a href="https://github.com/CariSoftwareBR/OpenGitDesktop"><img src="https://raw.githubusercontent.com/CariSoftwareBR/.github/main/profile/opengitdesktop-banner-v3.png" alt="OpenGitDesktop — the Git client that works with you, not instead of you" width="100%"></a>
 
 <br>
 
